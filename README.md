@@ -20,7 +20,15 @@ We developed a next-generation, mobile-first B2B platform that digitizes and str
 * **Feature Modules:** Excel Parser, Authentication, Advanced Filtering
 
 ## 📸 Interface Previews
-*(Insert 3-4 high-quality, sanitized screenshots here. Ensure no real client data is visible.)*
-1. Dashboard Overview
-2. Mobile Interface View
-3. Bulk Excel Upload Screen
+
+### 1. Dashboard & Control Center
+![Dashboard Overview](./assets/B2B3.jpg)
+
+### 2. Mobile-First B2B Experience
+![Mobile Interface View](./assets/B2B4.jpg)
+
+### 3. Catalog & Part Details
+![Catalog Details](./assets/B2B1.jpg)
+
+### 4. Secure Authentication
+![Login Screen](./assets/B2B2.jpg)
