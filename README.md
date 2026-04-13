@@ -22,13 +22,13 @@ We developed a next-generation, mobile-first B2B platform that digitizes and str
 ## 📸 Interface Previews
 
 ### 1. Dashboard & Control Center
-![Dashboard Overview](./assets/B2B3.jpg)
+![Dashboard Overview](./assets/B2B3.png)
 
 ### 2. Mobile-First B2B Experience
-![Mobile Interface View](./assets/B2B4.jpg)
+![Mobile Interface View](./assets/B2B4.png)
 
 ### 3. Catalog & Part Details
-![Catalog Details](./assets/B2B1.jpg)
+![Catalog Details](./assets/B2B1.png)
 
 ### 4. Secure Authentication
-![Login Screen](./assets/B2B2.jpg)
+![Login Screen](./assets/B2B2.png)
