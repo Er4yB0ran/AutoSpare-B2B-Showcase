@@ -1,33 +1,30 @@
-# 🚀 AutoSpare B2B: Modern Spare Parts Management System (Showcase)
+# Parça Hizmetleri: Scalable Auto Spare Parts SaaS & E-Commerce Platform (Showcase)
 
-> **Note:** This is a showcase repository. The source code is kept private due to NDA and commercial confidentiality.
+> **Note:** This is a showcase repository. The source code is kept private due to commercial confidentiality and its proprietary SaaS architecture.
 
-## 📌 The Problem & The Solution
-The auto spare parts industry heavily relies on outdated, desktop-only legacy software from the early 2010s. We developed a next-generation, mobile-first B2B platform that digitizes and streamlines the entire spare parts supply chain.
+## The Vision & The Solution
+The auto spare parts industry is highly fragmented, often relying on localized, outdated desktop software. Parça Hizmetleri is built to change this. It is not just an e-commerce website; it is a scalable SaaS infrastructure designed to manage a nationwide network of spare parts depots, seamlessly connecting complex B2B supply chains with a fast, modern B2C retail experience.
 
-### 🎛️ Centralized Control & Dashboard
-A complete overview of the ecosystem. Replaced local databases with **Supabase**, ensuring fast queries, secure authentication, and real-time synchronization.
-![Dashboard Overview](assets/B2B3.png)
-
----
-
-## ✨ Core Features in Action
-
-### 📱 Mobile-First Architecture
-A fully responsive interface, allowing users to manage inventory, search parts, and place orders directly from the field or warehouse. No more being tied to a desk.
-![Mobile Interface View](assets/B2B4.png)
-
-### 🛒 Modern Catalog & Part Details
-A clean, intuitive catalog designed specifically for end-users who are accustomed to complex and cluttered legacy screens.
-![Catalog Details](assets/B2B1.png)
-
-### 🔒 Secure B2B Authentication
-A minimalist and highly secure entry point for suppliers and buyers to connect to the supply network.
-![Login Screen](assets/B2B2.png)
+### Centralized SaaS & Depot Management
+A complete ecosystem overview. We replaced scattered legacy systems with a unified architecture powered by **Supabase**. It handles everything from multi-location warehouse tracking to dynamic pricing and order fulfillment with zero latency.
+![Dashboard & Management Overview](assets/1.png)
 
 ---
 
-## 🛠️ Tech Stack & Advanced Operations
-* **Frontend:** TypeScript, Next.js / React
-* **Backend & Database:** Supabase (PostgreSQL)
-* **Bulk Data Migration:** Engineered a bulk upload system via `.xlsx` files, enabling users to update thousands of spare parts in seconds, bypassing manual entry.
+## Core Capabilities in Action
+
+### Massive Scale & Dynamic SEO
+Built to handle a massive catalog of over 200,000+ unique spare parts. We engineered a custom, chunked dynamic XML sitemap generation system that bypasses standard database and execution limitations, ensuring every single part is fully indexed and accessible on search engines.
+![System Architecture & Scale](assets/2.png)
+
+### Mobile-First B2C/B2B Interface
+A fully responsive, lightning-fast UI designed for both mechanics in the warehouse and everyday drivers on the road. It streamlines the complex part-matching process into a clean, intuitive, and high-conversion e-commerce flow without the clutter of legacy systems.
+![Mobile Interface View](assets/3.png)
+
+---
+
+## Tech Stack & Engineering Highlights
+* **Frontend:** TypeScript, Next.js (App Router), Tailwind CSS
+* **Backend & Database:** Supabase (PostgreSQL), Edge Functions
+* **Performance & SEO:** Custom programmatic sitemaps, server-side rendering (SSR), and highly optimized URL/slug generation for hundreds of thousands of dynamic routes.
+* **Architecture:** Scalable SaaS structure designed for future multi-tenant depot expansion across the country.
